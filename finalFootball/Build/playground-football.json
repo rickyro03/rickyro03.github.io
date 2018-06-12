@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KidsPlayground",
+"dataUrl": "playground-football.data.unityweb",
+"asmCodeUrl": "playground-football.asm.code.unityweb",
+"asmMemoryUrl": "playground-football.asm.memory.unityweb",
+"asmFrameworkUrl": "playground-football.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
