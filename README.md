@@ -17,6 +17,7 @@
   <summary markdown="span">
     Football
   </summary>
+  
   * [Football: Ryan Vanden Bos](https://rickyro03.github.io/finalFootball/index.html) --- I fixed the many bugs in this game so it was enjoyable to play,
   
 </details>
@@ -25,8 +26,8 @@
   <summary markdown="span">
     Lander
   </summary>
+  
   * [Lander](https://rickyro03.github.io/Final/index.html)
-    
 </details>
 
 <details>
